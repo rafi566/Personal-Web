@@ -1,0 +1,65 @@
+{
+  "Data": [
+    {
+      "UpdateList": [
+        {
+          "LastUpdateDate": "2020-10-25 11:12:18.565",
+          "Type": "Name",
+          "SubType": "Legal",
+          "Value": "ABADI SEJAHTERA",
+          "SubDate": "2020-10"
+        },
+        {
+          "LastUpdateDate": "2020-10-01 15:55:16.604",
+          "Type": "Misc Value",
+          "SubType": "Penghasilan Utama",
+          "Value": "> 500.000- 1000000",
+          "SubDate": "2020-10"
+        },
+        {
+          "LastUpdateDate": "2020-10-01 15:55:16.583",
+          "Type": "Contact",
+          "SubType": "NOMOR TELEPON",
+          "Value": "5491512",
+          "SubDate": "2020-10"
+        },
+        {
+          "LastUpdateDate": "2020-10-01 15:55:16.562",
+          "Type": "Identification",
+          "SubType": "NOMOR AKTA PENDIRIAN",
+          "Value": "46011903DINSOS2018",
+          "SubDate": "2020-10"
+        },
+        {
+          "LastUpdateDate": "2020-10-01 15:55:16.555",
+          "Type": "Identification",
+          "SubType": "NOMOR POKOK WAJIB PAJAK",
+          "Value": "50824471113",
+          "SubDate": "2020-10"
+        },
+        {
+          "LastUpdateDate": "2020-10-01 15:55:16.546",
+          "Type": "Name",
+          "SubType": "Legal",
+          "Value": "ABADI SEJAHTERA",
+          "SubDate": "2020-10"
+        }
+      ],
+      "Month": "Oktober",
+      "Year": "2020"
+    },
+    {
+      "UpdateList": [
+        {
+          "LastUpdateDate": "2020-02-05 20:41:35.558",
+          "Type": "Address",
+          "SubType": "Alamat Sesuai Id",
+          "Value": "KEDUNGBANTENG RT 09 RW 04, RT 09, RW 04, Kelurahan KEDUNGBANTENG, Kecamatan KEDUNGBANTENG, Kota TEGAL, Propinsi JAWA TENGAH, Kode Pos 52472, Kode Negara 99, Negara INDONESIA",
+          "SubDate": "2020-02"
+        }
+      ],
+      "Month": "Februari",
+      "Year": "2020"
+    }
+  ]
+}
