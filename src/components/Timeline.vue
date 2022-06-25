@@ -4,13 +4,11 @@
     <q-timeline color="blue-10">
       <q-timeline-entry heading body="Recent Update History"></q-timeline-entry>
       <div v-for="item in items" :key="item.UpdateList">
-      <q-timeline-entry
-      subtitle = Test 
-      >
+      <q-timeline-entry>
         <q-card align="evenly">  
         <ul>
           <li>
-            <span>{{ item.UpdateList.LastUpdateDate }}</span>
+            <span>{{ item.UpdateList }}</span>
           </li>
         </ul>
         </q-card>     
