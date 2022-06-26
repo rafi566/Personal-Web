@@ -3,15 +3,13 @@
   <div class="q-px-lg q-pb-md">
     <q-timeline color="blue-10">
       <q-timeline-entry heading body="Recent Update History"></q-timeline-entry>
-      <div v-for="item in items" :key="item.UpdateList">
+      <div v-for="item in items">
       <q-timeline-entry>
-        <q-card align="evenly">  
-        <ul>
-          <li>
-            <span>{{ item.UpdateList }}</span>
-          </li>
-        </ul>
-        </q-card>     
+        <q-card align="evenly">
+        <div v-for="(value, key, index) in item.UpdateList">  
+        {{ index }}. {{ key }}: {{ value }}
+         </div>
+        </q-card>
       </q-timeline-entry>
       </div>
     </q-timeline>
